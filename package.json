@@ -1,0 +1,36 @@
+{
+  "name": "maximal-independent-set",
+  "version": "0.0.0",
+  "description": "Maximal independent vertex sets",
+  "main": "mis.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.4.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/maximal-independent-set.git"
+  },
+  "keywords": [
+    "maximal",
+    "independent",
+    "set",
+    "vertex",
+    "graph",
+    "simplicial",
+    "complex",
+    "edge",
+    "adjacency",
+    "maximum"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "6aaf9a1d3c0dac9e45f57a51b811b928f3d7bacc"
+}
